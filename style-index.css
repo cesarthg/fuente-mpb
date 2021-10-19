@@ -1,0 +1,279 @@
+@font-face {
+    font-family: 'mpb-font';
+    src:  url('fonts/mpb-font.eot?6jaxa2');
+    src:  url('fonts/mpb-font.eot?6jaxa2#iefix') format('embedded-opentype'),
+      url('fonts/mpb-font.ttf?6jaxa2') format('truetype'),
+      url('fonts/mpb-font.woff?6jaxa2') format('woff'),
+      url('fonts/mpb-font.svg?6jaxa2#mpb-font') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  i {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'mpb-font' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-accesorios-basureros:before {
+    content: "\e900";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-accesorios-bebe:before {
+    content: "\e901";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-accesorios-regadera:before {
+    content: "\e902";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-asientos-inodoros:before {
+    content: "\e903";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-asientos-regadera:before {
+    content: "\e904";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-barras-acero:before {
+    content: "\e905";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-basureros:before {
+    content: "\e906";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-bebederos:before {
+    content: "\e907";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-bidets:before {
+    content: "\e908";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-cespol:before {
+    content: "\e909";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-coladeras:before {
+    content: "\e90a";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-consumibles:before {
+    content: "\e90b";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-contra:before {
+    content: "\e90c";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-destapado:before {
+    content: "\e90d";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-dispensador-jabon:before {
+    content: "\e90e";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-dispensador-papel:before {
+    content: "\e90f";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-saniasientos:before {
+    content: "\e910";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-dispensador-toalla-rollo:before {
+    content: "\e911";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-dispensador-toalla-interdoblada:before {
+    content: "\e912";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-dispensador-toallas-sanitarias:before {
+    content: "\e913";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-dispensador-spray:before {
+    content: "\e914";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-espejos:before {
+    content: "\e915";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-fluxometros:before {
+    content: "\e916";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-griferia:before {
+    content: "\e917";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-inodoros:before {
+    content: "\e918";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-jaboneras:before {
+    content: "\e919";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-lavabos:before {
+    content: "\e91a";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-mamparas:before {
+    content: "\e91b";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-mingitorios:before {
+    content: "\e91c";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-muebles:before {
+    content: "\e91d";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-perchas:before {
+    content: "\e91e";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-portacepillos:before {
+    content: "\e91f";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-portacepillos-inodoro:before {
+    content: "\e920";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-portapapel:before {
+    content: "\e921";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-portavasos:before {
+    content: "\e922";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-pulsadores:before {
+    content: "\e923";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-refacciones:before {
+    content: "\e924";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-regaderas-higienicas:before {
+    content: "\e925";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-regaderas:before {
+    content: "\e926";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-repisas:before {
+    content: "\e927";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-secadores-manos:before {
+    content: "\e928";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-secadores-pelo:before {
+    content: "\e929";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-servicios:before {
+    content: "\e92a";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-sistemas-empotrados:before {
+    content: "\e92b";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-tanque-presurizado:before {
+    content: "\e92c";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-tanque-empotrado:before {
+    content: "\e92d";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-tarjas:before {
+    content: "\e92e";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-tendedero:before {
+    content: "\e92f";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-tinas:before {
+    content: "\e930";
+    color: #165d82;
+    font-size: 5rem;
+  }
+  .icon-utilitarios:before {
+    content: "\e931";
+    color: #165d82;
+    font-size: 5rem;
+  }
+
+  

@@ -1,0 +1,227 @@
+@font-face {
+  font-family: 'mpb-font';
+  src:  url('fonts/mpb-font.eot?6jaxa2');
+  src:  url('fonts/mpb-font.eot?6jaxa2#iefix') format('embedded-opentype'),
+    url('fonts/mpb-font.ttf?6jaxa2') format('truetype'),
+    url('fonts/mpb-font.woff?6jaxa2') format('woff'),
+    url('fonts/mpb-font.svg?6jaxa2#mpb-font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'mpb-font' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-accesorios-basureros:before {
+  content: "\e900";
+  color: #adadad;
+}
+.icon-accesorios-bebe:before {
+  content: "\e901";
+  color: #adadad;
+}
+.icon-accesorios-regadera:before {
+  content: "\e902";
+  color: #adadad;
+}
+.icon-asientos-inodoros:before {
+  content: "\e903";
+  color: #adadad;
+}
+.icon-asientos-regadera:before {
+  content: "\e904";
+  color: #adadad;
+}
+.icon-barras-acero:before {
+  content: "\e905";
+  color: #adadad;
+}
+.icon-basureros:before {
+  content: "\e906";
+  color: #adadad;
+}
+.icon-bebederos:before {
+  content: "\e907";
+  color: #adadad;
+}
+.icon-bidets:before {
+  content: "\e908";
+  color: #adadad;
+}
+.icon-cespol:before {
+  content: "\e909";
+  color: #adadad;
+}
+.icon-coladeras:before {
+  content: "\e90a";
+  color: #adadad;
+}
+.icon-consumibles:before {
+  content: "\e90b";
+  color: #adadad;
+}
+.icon-contra:before {
+  content: "\e90c";
+  color: #adadad;
+}
+.icon-destapado:before {
+  content: "\e90d";
+  color: #adadad;
+}
+.icon-dispensador-jabon:before {
+  content: "\e90e";
+  color: #adadad;
+}
+.icon-dispensador-papel:before {
+  content: "\e90f";
+  color: #adadad;
+}
+.icon-saniasientos:before {
+  content: "\e910";
+  color: #adadad;
+}
+.icon-dispensador-toalla-rollo:before {
+  content: "\e911";
+  color: #adadad;
+}
+.icon-dispensador-toalla-interdoblada:before {
+  content: "\e912";
+  color: #adadad;
+}
+.icon-dispensador-toallas-sanitarias:before {
+  content: "\e913";
+  color: #adadad;
+}
+.icon-dispensador-spray:before {
+  content: "\e914";
+  color: #adadad;
+}
+.icon-espejos:before {
+  content: "\e915";
+  color: #adadad;
+}
+.icon-fluxometros:before {
+  content: "\e916";
+  color: #adadad;
+}
+.icon-griferia:before {
+  content: "\e917";
+  color: #adadad;
+}
+.icon-inodoros:before {
+  content: "\e918";
+  color: #adadad;
+}
+.icon-jaboneras:before {
+  content: "\e919";
+  color: #adadad;
+}
+.icon-lavabos:before {
+  content: "\e91a";
+  color: #adadad;
+}
+.icon-mamparas:before {
+  content: "\e91b";
+  color: #adadad;
+}
+.icon-mingitorios:before {
+  content: "\e91c";
+  color: #adadad;
+}
+.icon-muebles:before {
+  content: "\e91d";
+  color: #adadad;
+}
+.icon-perchas:before {
+  content: "\e91e";
+  color: #adadad;
+}
+.icon-portacepillos:before {
+  content: "\e91f";
+  color: #adadad;
+}
+.icon-portacepillos-inodoro:before {
+  content: "\e920";
+  color: #adadad;
+}
+.icon-portapapel:before {
+  content: "\e921";
+  color: #adadad;
+}
+.icon-portavasos:before {
+  content: "\e922";
+  color: #adadad;
+}
+.icon-pulsadores:before {
+  content: "\e923";
+  color: #adadad;
+}
+.icon-refacciones:before {
+  content: "\e924";
+  color: #adadad;
+}
+.icon-regaderas-higienicas:before {
+  content: "\e925";
+  color: #adadad;
+}
+.icon-regaderas:before {
+  content: "\e926";
+  color: #adadad;
+}
+.icon-repisas:before {
+  content: "\e927";
+  color: #adadad;
+}
+.icon-secadores-manos:before {
+  content: "\e928";
+  color: #adadad;
+}
+.icon-secadores-pelo:before {
+  content: "\e929";
+  color: #adadad;
+}
+.icon-servicios:before {
+  content: "\e92a";
+  color: #adadad;
+}
+.icon-sistemas-empotrados:before {
+  content: "\e92b";
+  color: #adadad;
+}
+.icon-tanque-presurizado:before {
+  content: "\e92c";
+  color: #adadad;
+}
+.icon-tanque-empotrado:before {
+  content: "\e92d";
+  color: #adadad;
+}
+.icon-tarjas:before {
+  content: "\e92e";
+  color: #adadad;
+}
+.icon-tendedero:before {
+  content: "\e92f";
+  color: #adadad;
+}
+.icon-tinas:before {
+  content: "\e930";
+  color: #adadad;
+}
+.icon-utilitarios:before {
+  content: "\e931";
+  color: #adadad;
+}
