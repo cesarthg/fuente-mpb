@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'mpb-font';
-  src:  url('fonts/mpb-font.eot?6jaxa2');
-  src:  url('fonts/mpb-font.eot?6jaxa2#iefix') format('embedded-opentype'),
-    url('fonts/mpb-font.ttf?6jaxa2') format('truetype'),
-    url('fonts/mpb-font.woff?6jaxa2') format('woff'),
-    url('fonts/mpb-font.svg?6jaxa2#mpb-font') format('svg');
+  src:  url('fonts/mpb-font.eot?fxfrds');
+  src:  url('fonts/mpb-font.eot?fxfrds#iefix') format('embedded-opentype'),
+    url('fonts/mpb-font.ttf?fxfrds') format('truetype'),
+    url('fonts/mpb-font.woff?fxfrds') format('woff'),
+    url('fonts/mpb-font.svg?fxfrds#mpb-font') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -89,24 +89,20 @@ i {
   content: "\e90f";
   color: #adadad;
 }
-.icon-saniasientos:before {
-  content: "\e910";
-  color: #adadad;
-}
-.icon-dispensador-toalla-rollo:before {
-  content: "\e911";
+.icon-dispensador-spray:before {
+  content: "\e914";
   color: #adadad;
 }
 .icon-dispensador-toalla-interdoblada:before {
   content: "\e912";
   color: #adadad;
 }
-.icon-dispensador-toallas-sanitarias:before {
-  content: "\e913";
+.icon-dispensador-toalla-rollo:before {
+  content: "\e911";
   color: #adadad;
 }
-.icon-dispensador-spray:before {
-  content: "\e914";
+.icon-dispensador-toallas-sanitarias:before {
+  content: "\e913";
   color: #adadad;
 }
 .icon-espejos:before {
@@ -173,16 +169,20 @@ i {
   content: "\e924";
   color: #adadad;
 }
-.icon-regaderas-higienicas:before {
-  content: "\e925";
-  color: #adadad;
-}
 .icon-regaderas:before {
   content: "\e926";
   color: #adadad;
 }
+.icon-regaderas-higienicas:before {
+  content: "\e925";
+  color: #adadad;
+}
 .icon-repisas:before {
   content: "\e927";
+  color: #adadad;
+}
+.icon-saniasientos:before {
+  content: "\e910";
   color: #adadad;
 }
 .icon-secadores-manos:before {
@@ -201,12 +201,12 @@ i {
   content: "\e92b";
   color: #adadad;
 }
-.icon-tanque-presurizado:before {
-  content: "\e92c";
-  color: #adadad;
-}
 .icon-tanque-empotrado:before {
   content: "\e92d";
+  color: #adadad;
+}
+.icon-tanque-presurizado:before {
+  content: "\e92c";
   color: #adadad;
 }
 .icon-tarjas:before {
@@ -219,6 +219,10 @@ i {
 }
 .icon-tinas:before {
   content: "\e930";
+  color: #adadad;
+}
+.icon-toalleros:before {
+  content: "\e932";
   color: #adadad;
 }
 .icon-utilitarios:before {
