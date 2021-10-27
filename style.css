@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'mpb-font';
-  src:  url('fonts/mpb-font.eot?fxfrds');
-  src:  url('fonts/mpb-font.eot?fxfrds#iefix') format('embedded-opentype'),
-    url('fonts/mpb-font.ttf?fxfrds') format('truetype'),
-    url('fonts/mpb-font.woff?fxfrds') format('woff'),
-    url('fonts/mpb-font.svg?fxfrds#mpb-font') format('svg');
+  src:  url('fonts/mpb-font.eot?ffurwo');
+  src:  url('fonts/mpb-font.eot?ffurwo#iefix') format('embedded-opentype'),
+    url('fonts/mpb-font.ttf?ffurwo') format('truetype'),
+    url('fonts/mpb-font.woff?ffurwo') format('woff'),
+    url('fonts/mpb-font.svg?ffurwo#mpb-font') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,14 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-neorest:before {
+  content: "\e933";
+  color: #afadae;
+}
+.icon-washlet:before {
+  content: "\e934";
+  color: #aeadae;
+}
 .icon-accesorios-basureros:before {
   content: "\e900";
   color: #adadad;
